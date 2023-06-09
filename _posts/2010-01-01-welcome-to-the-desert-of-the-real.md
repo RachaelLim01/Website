@@ -1,8 +1,8 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2023-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Rachael Lim
+subtitle: 'Welcome to my page! Check out my projects below.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
