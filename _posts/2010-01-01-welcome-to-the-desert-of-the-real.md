@@ -20,7 +20,7 @@ Hello! My name is Rachael Lim. I am currently pursuing a Statistics and Data Sci
 
 I am inspired by new innovations that change the way we live, and I am driven to apply my skills and knowledge in this field to make a positive impact on others. 
 
-A little about my background is that I was born and raised in Kuala Lumpur, Malaysia and moved to the States for high school to further my education. The picture provided above and on the home page is actually the city I grew up in! Outside of school work, Cheerleading and Track and Field were my passions in high school. I also enjoy food hunting, watching crime documentaries, and cooking. 
+A little about my background is that I was born and raised in Kuala Lumpur, Malaysia and moved to the States for high school to further my education. The picture provided above and on the home page is actually the city I grew up in! Outside of school work, cheerleading and track and Field were my passions in high school. I also enjoy food hunting, watching crime documentaries, and cooking. 
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
