@@ -4,8 +4,7 @@ layout: post
 title: Rachael Lim
 subtitle: 'Welcome to my page! Check out my projects below.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Hello! My name is Rachael Lim. I am currently pursuing a Statistics and Data Science Bachelor's degree with a minor in Digital Humanities at University of California, Los Angeles. I chose to pursue this major because I enjoy problem solving, data analysis, and creating impactful results. Therefore, by utilizing data, it allows me to make data-driven decisions to enhance the efficiency for others. I will be graduating in June of 2024 and I am open to roles in Data Analyst and Data Sciencist. 
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kuala_Lumpur_Skyline_at_dusk_1.jpg/640px-Kuala_Lumpur_Skyline_at_dusk_1.jpg
 optimized_image: >-
